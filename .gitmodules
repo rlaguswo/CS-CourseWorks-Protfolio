@@ -16,3 +16,6 @@
 [submodule "CO_and_AL"]
 	path = CO_and_AL
 	url = https://github.com/rlaguswo/Computer-Organization-Assembly-Language
+[submodule "Computer_Networks_Intro"]
+	path = Computer_Networks_Intro
+	url = https://github.com/rlaguswo/Intro-to-computer-networks
