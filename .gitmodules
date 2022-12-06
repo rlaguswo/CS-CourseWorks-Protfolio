@@ -22,3 +22,6 @@
 [submodule "AI_Intro"]
 	path = AI_Intro
 	url = https://github.com/rlaguswo/Intro-to-AI
+[submodule "Digital_Design"]
+	path = Digital_Design
+	url = https://github.com/rlaguswo/Digital-Logic-Design
