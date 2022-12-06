@@ -28,3 +28,6 @@
 [submodule "Software_Engineering_I"]
 	path = Software_Engineering_I
 	url = https://github.com/rlaguswo/Sofware-Engineering-I
+[submodule "Software_Engineering_II"]
+	path = Software_Engineering_II
+	url = https://github.com/rlaguswo/Software-Engineering-II
