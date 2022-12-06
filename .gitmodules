@@ -13,3 +13,6 @@
 [submodule "Analysis_of_Algorithm"]
 	path = Analysis_of_Algorithm
 	url = https://github.com/rlaguswo/Analysis-of-Algorithm
+[submodule "CO_and_AL"]
+	path = CO_and_AL
+	url = https://github.com/rlaguswo/Computer-Organization-Assembly-Language
