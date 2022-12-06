@@ -25,3 +25,6 @@
 [submodule "Digital_Design"]
 	path = Digital_Design
 	url = https://github.com/rlaguswo/Digital-Logic-Design
+[submodule "Software_Engineering_I"]
+	path = Software_Engineering_I
+	url = https://github.com/rlaguswo/Sofware-Engineering-I
