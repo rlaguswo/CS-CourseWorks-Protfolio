@@ -4,3 +4,6 @@
 [submodule "Introduction_to_CS_II"]
 	path = Introduction_to_CS_II
 	url = https://github.com/rlaguswo/Introduction-to-CS-II
+[submodule "Data_Structure"]
+	path = Data_Structure
+	url = https://github.com/rlaguswo/Data-Structure
