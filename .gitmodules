@@ -7,3 +7,6 @@
 [submodule "Data_Structure"]
 	path = Data_Structure
 	url = https://github.com/rlaguswo/Data-Structure
+[submodule "Theory_of_Computation_Intro"]
+	path = Theory_of_Computation_Intro
+	url = https://github.com/rlaguswo/Introduction-to-Theory-of-Computation
