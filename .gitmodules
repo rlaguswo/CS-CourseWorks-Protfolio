@@ -10,3 +10,6 @@
 [submodule "Theory_of_Computation_Intro"]
 	path = Theory_of_Computation_Intro
 	url = https://github.com/rlaguswo/Introduction-to-Theory-of-Computation
+[submodule "Analysis_of_Algorithm"]
+	path = Analysis_of_Algorithm
+	url = https://github.com/rlaguswo/Analysis-of-Algorithm
