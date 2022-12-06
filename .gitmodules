@@ -34,3 +34,6 @@
 [submodule "HPC_AI_Seminar"]
 	path = HPC_AI_Seminar
 	url = https://github.com/rlaguswo/HPC-AI-Seminar
+[submodule "ML_CS229"]
+	path = ML_CS229
+	url = https://github.com/rlaguswo/Machine-Learning
