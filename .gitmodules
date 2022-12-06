@@ -1,3 +1,6 @@
 [submodule "Introduction_to_CS_I"]
 	path = Introduction_to_CS_I
 	url = https://github.com/rlaguswo/Introduction-to-CS-I
+[submodule "Introduction_to_CS_II"]
+	path = Introduction_to_CS_II
+	url = https://github.com/rlaguswo/Introduction-to-CS-II
