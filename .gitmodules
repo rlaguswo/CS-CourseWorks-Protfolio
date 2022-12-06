@@ -31,3 +31,6 @@
 [submodule "Software_Engineering_II"]
 	path = Software_Engineering_II
 	url = https://github.com/rlaguswo/Software-Engineering-II
+[submodule "HPC_AI_Seminar"]
+	path = HPC_AI_Seminar
+	url = https://github.com/rlaguswo/HPC-AI-Seminar
