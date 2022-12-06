@@ -37,3 +37,6 @@
 [submodule "ML_CS229"]
 	path = ML_CS229
 	url = https://github.com/rlaguswo/Machine-Learning
+[submodule "Build_HPC_Cluster"]
+	path = Build_HPC_Cluster
+	url = https://github.com/rlaguswo/Intro-to-Building-HPC-Cluster
