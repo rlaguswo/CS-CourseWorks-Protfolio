@@ -19,3 +19,6 @@
 [submodule "Computer_Networks_Intro"]
 	path = Computer_Networks_Intro
 	url = https://github.com/rlaguswo/Intro-to-computer-networks
+[submodule "AI_Intro"]
+	path = AI_Intro
+	url = https://github.com/rlaguswo/Intro-to-AI
