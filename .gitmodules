@@ -40,3 +40,6 @@
 [submodule "Build_HPC_Cluster"]
 	path = Build_HPC_Cluster
 	url = https://github.com/rlaguswo/Intro-to-Building-HPC-Cluster
+[submodule "Web_Development_group_project"]
+	path = Web_Development_group_project
+	url = https://github.com/osu-cs290-sp21/final-project-team-20
